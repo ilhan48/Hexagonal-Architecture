@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{4E99BAC6-F402-4D8B-A2E4-8A15B9C4FEDA}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="week5">
+            <Node name="src" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="Application" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.src.Adapter.Api PreferredExecutionTarget="/Applications/Arc.app" />
+</Properties>
